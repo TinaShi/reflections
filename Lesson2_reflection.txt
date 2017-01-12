@@ -1,5 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+We need to use "git status" to check what untracked files there in the repository so that we know the status of the repository of both tracked and untracked files.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
