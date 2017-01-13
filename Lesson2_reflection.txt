@@ -5,11 +5,19 @@ We need to use "git status" to check what untracked files there in the repositor
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is a place that stores the changes of different files. We can commit once for the changes of different files. It is like a holder that contains small changes in different places for one project.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+We can use "git diff" to identify the changes that we have made on the files before adding the file to the staging area and use "git diff --staged" to double check if the difference is really something we want to commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+If there are a lot of commits and some branches, especially when some branchs are not reachable. The branches can help with keeping the multiple versions of programs and files for different situations.
+
+Branches allow different versions of the program saved without affecting each other. A original mode program and a easier mode program can be saved on two different branches.
 
 How do the diagrams help you visualize the branch structure?
 
