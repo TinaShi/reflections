@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without Git or GitHub I used email and dropbox to share information. It is easier to use when most of the people in the group are not familiar with Linux, but it is harder to get everyone to get updated. It is also hard to put all the files in one place to share the history.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
